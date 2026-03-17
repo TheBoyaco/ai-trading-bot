@@ -12,3 +12,7 @@ Active project
 
 ## Author
 AI-Assisted Software Developer
+## Performance
+
+![Drawdown](drawdown.png)
+![Equity](equity.png)
